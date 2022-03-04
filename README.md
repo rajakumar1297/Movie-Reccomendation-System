@@ -1,3 +1,10 @@
 # Movie-Reccomendation-System
-- It is a Webapp.
-- It Will Reccomend you 5 different movies based on your chosen movie.
+It is a webapp for Movie Recommendation based on selected movie.
+- Tools and Technologies
+  - python, numpy, pandas, data preprocsssing.
+  - nltk for text preprocessing and vectorization
+
+## Vectorization
+- CountVectorizer
+## deployed on heroku
+- link-https://movies-recommendation-system2.herokuapp.com/
